@@ -1,6 +1,7 @@
-# Snake for ESP32 and ILI9341 LCD
+# Snake for ESP32 and ILI9341
 
 This is a modified version of @HailTheBDFL ( Tyler Edwards ) snake game.
+
  _Patched bugs, added music (beeps), remade the input buttons, made food not spawn on the snake._ 
 
 - 1x ESP32
